@@ -1,8 +1,8 @@
-import WorkingApp from './WorkingApp'
+import EnhancedApp from './EnhancedApp'
 import './App.css'
 
 function App() {
-  return <WorkingApp />
+  return <EnhancedApp />
 }
 
 export default App

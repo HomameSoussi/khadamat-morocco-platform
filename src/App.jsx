@@ -1,8 +1,8 @@
-import EnhancedApp from './EnhancedApp'
+import ImprovedKhadamatApp from './ImprovedKhadamatApp'
 import './App.css'
 
 function App() {
-  return <EnhancedApp />
+  return <ImprovedKhadamatApp />
 }
 
 export default App
